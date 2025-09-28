@@ -7,11 +7,11 @@ This project contains two Python scripts for extracting and classifying editoria
 ## Project Structure
 
 pdf_editorial/
-│
-├── classifier.py    # Advanced extraction & classification with LLM + keyword fallback
-├── script.py           # Simpler LLM-based extraction
-├── .gitignore          # Ignored files (venv, pyc, PDFs)
-└── README.md           # Project documentation
+|
+|--- classifier.py    # Advanced extraction & classification with LLM + keyword fallback
+|--- script.py           # Simpler LLM-based extraction
+|---.gitignore          # Ignored files (venv, pyc, PDFs)
+|---README.md           # Project documentation
 
 ---
 
