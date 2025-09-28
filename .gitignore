@@ -1,0 +1,21 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environment
+.venv/
+
+# PDF files (optional, since your repo probably doesn't need them)
+*.pdf
+*.zip
+
+# OS-specific files (Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs (optional)
+.vscode/
+.idea/
